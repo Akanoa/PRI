@@ -1,0 +1,3 @@
+/home/noa/Documents/experimental/openvibe/openvibe-plugins/classification/trunc/lib/libOpenViBE-plugins-classification-dynamic.so.x.x.x
+/home/noa/Documents/experimental/openvibe/openvibe-plugins/classification/trunc/lib/libOpenViBE-plugins-classification-dynamic.so.x
+/home/noa/Documents/experimental/openvibe/openvibe-plugins/classification/trunc/lib/libOpenViBE-plugins-classification-dynamic.so

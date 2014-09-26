@@ -1,0 +1,1 @@
+libOpenViBE-module-EBML-dynamic.so.x.x.x

@@ -1,0 +1,1 @@
+libOpenViBE-plugins-matlab-dynamic.so.x.x.x

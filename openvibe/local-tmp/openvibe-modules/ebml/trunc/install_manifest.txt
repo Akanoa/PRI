@@ -1,0 +1,15 @@
+/home/noa/Documents/experimental/openvibe/openvibe-modules/ebml/trunc/lib/libOpenViBE-module-EBML-dynamic.so.x.x.x
+/home/noa/Documents/experimental/openvibe/openvibe-modules/ebml/trunc/lib/libOpenViBE-module-EBML-dynamic.so.x
+/home/noa/Documents/experimental/openvibe/openvibe-modules/ebml/trunc/lib/libOpenViBE-module-EBML-dynamic.so
+/home/noa/Documents/experimental/openvibe/openvibe-modules/ebml/trunc/include/ebml/IWriterHelper.h
+/home/noa/Documents/experimental/openvibe/openvibe-modules/ebml/trunc/include/ebml/IReaderHelper.h
+/home/noa/Documents/experimental/openvibe/openvibe-modules/ebml/trunc/include/ebml/IReader.h
+/home/noa/Documents/experimental/openvibe/openvibe-modules/ebml/trunc/include/ebml/defines.h
+/home/noa/Documents/experimental/openvibe/openvibe-modules/ebml/trunc/include/ebml/TWriterCallbackProxy.h
+/home/noa/Documents/experimental/openvibe/openvibe-modules/ebml/trunc/include/ebml/CWriter.h
+/home/noa/Documents/experimental/openvibe/openvibe-modules/ebml/trunc/include/ebml/TReaderCallbackProxy.h
+/home/noa/Documents/experimental/openvibe/openvibe-modules/ebml/trunc/include/ebml/CIdentifier.h
+/home/noa/Documents/experimental/openvibe/openvibe-modules/ebml/trunc/include/ebml/CReader.h
+/home/noa/Documents/experimental/openvibe/openvibe-modules/ebml/trunc/include/ebml/CWriterHelper.h
+/home/noa/Documents/experimental/openvibe/openvibe-modules/ebml/trunc/include/ebml/IWriter.h
+/home/noa/Documents/experimental/openvibe/openvibe-modules/ebml/trunc/include/ebml/CReaderHelper.h

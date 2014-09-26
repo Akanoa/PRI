@@ -1,0 +1,8 @@
+/home/noa/Documents/experimental/openvibe/openvibe-modules/xml/trunc/lib/libOpenViBE-module-XML-dynamic.so.x.x.x
+/home/noa/Documents/experimental/openvibe/openvibe-modules/xml/trunc/lib/libOpenViBE-module-XML-dynamic.so.x
+/home/noa/Documents/experimental/openvibe/openvibe-modules/xml/trunc/lib/libOpenViBE-module-XML-dynamic.so
+/home/noa/Documents/experimental/openvibe/openvibe-modules/xml/trunc/include/xml/IReader.h
+/home/noa/Documents/experimental/openvibe/openvibe-modules/xml/trunc/include/xml/defines.h
+/home/noa/Documents/experimental/openvibe/openvibe-modules/xml/trunc/include/xml/TWriterCallbackProxy.h
+/home/noa/Documents/experimental/openvibe/openvibe-modules/xml/trunc/include/xml/TReaderCallbackProxy.h
+/home/noa/Documents/experimental/openvibe/openvibe-modules/xml/trunc/include/xml/IWriter.h

@@ -1,0 +1,1 @@
+/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/stream-codecs/trunc/CMakeFiles/OpenViBE-plugins-stream-codecs-dynamic.dir

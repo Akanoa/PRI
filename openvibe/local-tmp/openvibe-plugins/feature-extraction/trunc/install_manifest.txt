@@ -1,0 +1,3 @@
+/home/noa/Documents/experimental/openvibe/openvibe-plugins/feature-extraction/trunc/lib/libOpenViBE-plugins-feature-extraction-dynamic.so.x.x.x
+/home/noa/Documents/experimental/openvibe/openvibe-plugins/feature-extraction/trunc/lib/libOpenViBE-plugins-feature-extraction-dynamic.so.x
+/home/noa/Documents/experimental/openvibe/openvibe-plugins/feature-extraction/trunc/lib/libOpenViBE-plugins-feature-extraction-dynamic.so

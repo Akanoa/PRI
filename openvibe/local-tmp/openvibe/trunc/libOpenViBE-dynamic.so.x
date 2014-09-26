@@ -1,0 +1,1 @@
+libOpenViBE-dynamic.so.x.x.x

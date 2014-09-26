@@ -1,0 +1,10 @@
+Lecture des listes de paquets...
+Construction de l'arbre des dépendances...
+Lecture des informations d'état...
+Aucune version du paquet libreadline5-dev n'est disponible, mais il existe dans la base
+de données. Cela signifie en général que le paquet est manquant, qu'il est devenu obsolète
+ou qu'il n'est disponible que sur une autre source
+Cependant les paquets suivants le remplacent :
+  libreadline-gplv2-dev
+
+E: Le paquet « libreadline5-dev » n'a pas de version susceptible d'être installée

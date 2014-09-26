@@ -1,0 +1,1 @@
+libOpenViBE-plugins-file-io-dynamic.so.x.x.x

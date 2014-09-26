@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/emokitd.dir/emokitd.c.o  -o ../../bin/emokitd  -L/usr/local/lib -rdynamic ../../lib/libemokit.a -lmcrypt -lusb-1.0 -Wl,-rpath,/usr/local/lib 

@@ -1,0 +1,16 @@
+#!/bin/bash
+
+export OpenViBE_dependencies=/home/noa/Documents/experimental/openvibe/scripts/software
+
+export PKG_CONFIG_PATH=/home/noa/Documents/experimental/openvibe/scripts/software/lib/pkgconfig:$PKG_CONFIG_PATH:/usr/lib/pkgconfig:/usr/local/lib/pkgconfig
+export LD_LIBRARY_PATH=/home/noa/Documents/experimental/openvibe/scripts/software/lib64:/home/noa/Documents/experimental/openvibe/scripts/software/lib:/home/noa/Documents/experimental/openvibe/scripts/software/lib/opt:$LD_LIBRARY_PATH
+export PATH=/home/noa/Documents/experimental/openvibe/scripts/software/bin:$PATH
+
+export LUA_PATH=/home/noa/Documents/experimental/openvibe/scripts/software/share/lua/5.1/?.lua\;?.lua
+export LUA_CPATH=/home/noa/Documents/experimental/openvibe/scripts/software/lib/lua/5.1/?.so\;?.so
+
+export OGRE_HOME=/home/noa/Documents/experimental/openvibe/scripts/software
+export VRPN_ROOT=/home/noa/Documents/experimental/openvibe/scripts/software
+export OMK_BIN=/home/noa/Documents/experimental/openvibe/scripts/software
+export OMK_HOME=$OMK_BIN
+

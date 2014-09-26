@@ -1,0 +1,3 @@
+/home/noa/Documents/experimental/openvibe/openvibe-plugins/signal-processing-gpl/trunc/lib/libOpenViBE-plugins-signal-processing-gpl-dynamic.so.x.x.x
+/home/noa/Documents/experimental/openvibe/openvibe-plugins/signal-processing-gpl/trunc/lib/libOpenViBE-plugins-signal-processing-gpl-dynamic.so.x
+/home/noa/Documents/experimental/openvibe/openvibe-plugins/signal-processing-gpl/trunc/lib/libOpenViBE-plugins-signal-processing-gpl-dynamic.so

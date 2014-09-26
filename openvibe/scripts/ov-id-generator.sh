@@ -1,0 +1,1 @@
+../dist/ov-id-generator.sh

@@ -1,0 +1,6 @@
+/home/noa/Documents/experimental/openvibe/openvibe-modules/fs/trunc/lib/libOpenViBE-module-FS-dynamic.so.x.x.x
+/home/noa/Documents/experimental/openvibe/openvibe-modules/fs/trunc/lib/libOpenViBE-module-FS-dynamic.so.x
+/home/noa/Documents/experimental/openvibe/openvibe-modules/fs/trunc/lib/libOpenViBE-module-FS-dynamic.so
+/home/noa/Documents/experimental/openvibe/openvibe-modules/fs/trunc/include/fs/defines.h
+/home/noa/Documents/experimental/openvibe/openvibe-modules/fs/trunc/include/fs/IEntryEnumerator.h
+/home/noa/Documents/experimental/openvibe/openvibe-modules/fs/trunc/include/fs/Files.h

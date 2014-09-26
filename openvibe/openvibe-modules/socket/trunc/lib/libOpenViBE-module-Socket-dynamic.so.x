@@ -1,0 +1,1 @@
+libOpenViBE-module-Socket-dynamic.so.x.x.x

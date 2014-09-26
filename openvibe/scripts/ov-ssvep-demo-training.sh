@@ -1,0 +1,1 @@
+../dist/ov-ssvep-demo-training.sh

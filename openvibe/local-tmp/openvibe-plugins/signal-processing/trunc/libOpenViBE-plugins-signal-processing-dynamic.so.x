@@ -1,0 +1,1 @@
+libOpenViBE-plugins-signal-processing-dynamic.so.x.x.x

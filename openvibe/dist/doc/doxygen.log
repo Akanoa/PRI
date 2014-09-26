@@ -1,0 +1,488 @@
+warning: source /home/noa/Documents/experimental/openvibe/scripts/../openvibe-scenarios/trunc/src is not a readable file or directory... skipping.
+warning: source /home/noa/Documents/experimental/openvibe/scripts/../openvibe-scenarios/trunc/src is not a readable file or directory... skipping.
+/home/noa/Documents/experimental/openvibe/openvibe/trunc/src/openvibe/ovCKernelLoader.h:26: warning: Found ';' while parsing initializer list! (doxygen could be confused by a macro call without semicolon)
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/algorithm/ovkCAlgorithm.h:95: warning: Found ';' while parsing initializer list! (doxygen could be confused by a macro call without semicolon)
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/algorithm/ovkCAlgorithmContext.h:45: warning: Found ';' while parsing initializer list! (doxygen could be confused by a macro call without semicolon)
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/algorithm/ovkCAlgorithmProto.h:42: warning: Found ';' while parsing initializer list! (doxygen could be confused by a macro call without semicolon)
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/algorithm/ovkCAlgorithmProxy.h:58: warning: Found ';' while parsing initializer list! (doxygen could be confused by a macro call without semicolon)
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/ovkCKernelContext.h:37: warning: Found ';' while parsing initializer list! (doxygen could be confused by a macro call without semicolon)
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/ovkCKernelContext.h:111: warning: Found ';' while parsing initializer list! (doxygen could be confused by a macro call without semicolon)
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/ovkCKernelObjectFactory.h:27: warning: Found ';' while parsing initializer list! (doxygen could be confused by a macro call without semicolon)
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/ovkCObjectVisitorContext.h:26: warning: Found ';' while parsing initializer list! (doxygen could be confused by a macro call without semicolon)
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/ovkTKernelObject.h:76: warning: Found ';' while parsing initializer list! (doxygen could be confused by a macro call without semicolon)
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCBoxAlgorithmContext.h:28: warning: Found ';' while parsing initializer list! (doxygen could be confused by a macro call without semicolon)
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCPlayerContext.h:49: warning: Found ';' while parsing initializer list! (doxygen could be confused by a macro call without semicolon)
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/plugins/ovkCPluginManager.h:62: warning: Found ';' while parsing initializer list! (doxygen could be confused by a macro call without semicolon)
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/plugins/ovkCPluginModule.h:37: warning: Found ';' while parsing initializer list! (doxygen could be confused by a macro call without semicolon)
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/scenario/ovkCBox.h:120: warning: Found ';' while parsing initializer list! (doxygen could be confused by a macro call without semicolon)
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/scenario/ovkCBoxListenerContext.h:95: warning: Found ';' while parsing initializer list! (doxygen could be confused by a macro call without semicolon)
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/scenario/ovkCBoxProto.h:33: warning: Found ';' while parsing initializer list! (doxygen could be confused by a macro call without semicolon)
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/scenario/ovkCComment.h:42: warning: Found ';' while parsing initializer list! (doxygen could be confused by a macro call without semicolon)
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/scenario/ovkCLink.h:48: warning: Found ';' while parsing initializer list! (doxygen could be confused by a macro call without semicolon)
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/scenario/ovkCProcessingUnit.h:36: warning: Found ';' while parsing initializer list! (doxygen could be confused by a macro call without semicolon)
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/scenario/ovkCScenario.h:131: warning: Found ';' while parsing initializer list! (doxygen could be confused by a macro call without semicolon)
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/visualisation/ovkCVisualisationContext.h:191: warning: Found ';' while parsing initializer list! (doxygen could be confused by a macro call without semicolon)
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/visualisation/ovkCVisualisationTree.h:240: warning: Found ';' while parsing initializer list! (doxygen could be confused by a macro call without semicolon)
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/visualisation/ovkCVisualisationWidget.h:73: warning: Found ';' while parsing initializer list! (doxygen could be confused by a macro call without semicolon)
+/home/noa/Documents/experimental/openvibe/openvibe-modules/ebml/trunc/src/ebml/defines.h:2: warning: the name `defines.h' supplied as the second argument in the \file statement matches the following input files:
+   /home/noa/Documents/experimental/openvibe/openvibe-modules/ebml/trunc/src/ebml/defines.h
+   /home/noa/Documents/experimental/openvibe/openvibe-modules/fs/trunc/src/fs/defines.h
+   /home/noa/Documents/experimental/openvibe/openvibe-modules/socket/trunc/src/socket/defines.h
+   /home/noa/Documents/experimental/openvibe/openvibe-modules/system/trunc/src/system/defines.h
+   /home/noa/Documents/experimental/openvibe/openvibe-modules/stream/trunc/src/stream/defines.h
+   /home/noa/Documents/experimental/openvibe/openvibe-modules/xml/trunc/src/xml/defines.h
+   /home/noa/Documents/experimental/openvibe/openvibe-modules/automaton/trunc/src/automaton/defines.h
+Please use a more specific name by including a (larger) part of the path!
+/home/noa/Documents/experimental/openvibe/openvibe-modules/automaton/trunc/src/automaton/CIdentifier.h:2: warning: the name `CIdentifier.h' supplied as the second argument in the \file statement matches the following input files:
+   /home/noa/Documents/experimental/openvibe/openvibe-modules/ebml/trunc/src/ebml/CIdentifier.h
+   /home/noa/Documents/experimental/openvibe/openvibe-modules/automaton/trunc/src/automaton/CIdentifier.h
+Please use a more specific name by including a (larger) part of the path!
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/scenario/ovkCBox.h:122: warning: no uniquely matching class member found for 
+  _IsDerivedFromClass_Final_(void)
+
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/visualisation/ovkCVisualisationTree.h:241: warning: no uniquely matching class member found for 
+  _IsDerivedFromClass_Final_(void) const
+
+/home/noa/Documents/experimental/openvibe/openvibe/trunc/src/doc/SoftwareArchitectureOverview.dox:9: warning: image file Doc_SoftwareArchitectureOverview_SoftwareComponents_2.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe/trunc/src/doc/SoftwareArchitectureOverview.dox:53: warning: unable to resolve reference to `fig-display-widgets' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe/trunc/src/doc/SoftwareArchitectureOverview.dox:55: warning: unable to resolve reference to `openvibe-vr' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-modules/ebml/trunc/src/doc/FormatingEBMLStreams.dox:35: warning: image file ebml_formating_concept.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-modules/ebml/trunc/src/doc/FormatingEBMLStreams.dox:40: warning: image file ebml_formating_class.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-modules/ebml/trunc/src/doc/ParsingEBMLStreams.dox:51: warning: image file ebml_parsing_concept.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-modules/ebml/trunc/src/doc/ParsingEBMLStreams.dox:56: warning: image file ebml_parsing_class.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/contribution/contribution.dox:6: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/contribution/contribution.dox:8: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/contribution/contribution.dox:9: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/contribution/contribution.dox:42: warning: explicit link request to 'ifndef' could not be resolved
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/contribution/contribution.dox:42: warning: explicit link request to 'define' could not be resolved
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/contribution/contribution.dox:42: warning: explicit link request to 'endif' could not be resolved
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/installation/install.dox:6: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/installation/install.dox:8: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/installation/install.dox:9: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/stimulation-codes/stimulations.dox:6: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/stimulation-codes/stimulations.dox:8: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/stimulation-codes/stimulations.dox:9: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/stream-structures/streams.dox:5: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/stream-structures/streams.dox:7: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/stream-structures/streams.dox:8: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tools/id-generator.dox:5: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tools/id-generator.dox:7: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tools/id-generator.dox:8: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tools/id-generator.dox:21: warning: image file id-generator.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tools/skeleton-generator.dox:5: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tools/skeleton-generator.dox:7: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tools/skeleton-generator.dox:8: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tools/skeleton-generator.dox:22: warning: Found unknown command `\i'
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tools/skeleton-generator.dox:35: warning: Unexpected tag </img> found
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tools/skeleton-generator.dox:51: warning: Unexpected tag </img> found
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tools/skeleton-generator.dox:67: warning: Unexpected tag </img> found
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/documentation/documentation-howto.dox:49: warning: unable to resolve reference to `Doc_Application_Designer' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/documentation/documentation-howto.dox:61: warning: image file documentation-howto.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/documentation/documentation-howto.dox:101: warning: unable to resolve reference to `Doc_BoxAlgorithm_BrainampFileReader' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/documentation/documentation-howto.dox:107: warning: included file Doc_BoxAlgorithm_BrainampFileReader.dox-skeleton is not found. Check your EXAMPLE_PATH
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/documentation/documentation-howto.dox:139: warning: included file Doc_BoxAlgorithm_BrainampFileReader.dox is not found. Check your EXAMPLE_PATH
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/documentation/documentation-howto.dox:146: warning: unable to resolve reference to `Doc_BoxAlgorithm_BrainampFileReader' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/driver/configuration/ConfiguringANewDriver.dox:5: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/driver/configuration/ConfiguringANewDriver.dox:7: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/driver/configuration/ConfiguringANewDriver.dox:8: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/driver/configuration/ConfiguringANewDriver.dox:15: warning: image file basic_config.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/driver/configuration/ConfiguringANewDriver.dox:32: warning: image file gtec_config.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/driver/creation/CreatingANewDriver.dox:5: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/driver/creation/CreatingANewDriver.dox:7: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/driver/creation/CreatingANewDriver.dox:8: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/driver/creation/CreatingANewDriver.dox:427: warning: image file driver_automate.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/driver/creation/CreatingANewDriver.dox:449: warning: image file skeleton-generator.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/driver/impedance-checker/DriverImpedanceChecker.dox:5: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/driver/impedance-checker/DriverImpedanceChecker.dox:7: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/driver/impedance-checker/DriverImpedanceChecker.dox:8: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/driver/jitter-correction/DriverJitterCorrection.dox:5: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/driver/jitter-correction/DriverJitterCorrection.dox:7: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/driver/jitter-correction/DriverJitterCorrection.dox:8: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/signal-processing/developer_codec_toolkit_ref.dox:5: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/signal-processing/developer_codec_toolkit_ref.dox:7: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/signal-processing/developer_codec_toolkit_ref.dox:8: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/signal-processing/tutorial_developer_signal_processing_0_intro.dox:5: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/signal-processing/tutorial_developer_signal_processing_0_intro.dox:7: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/signal-processing/tutorial_developer_signal_processing_0_intro.dox:8: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/signal-processing/tutorial_developer_signal_processing_0_intro.dox:23: warning: image file algo-diagram.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/signal-processing/tutorial_developer_signal_processing_0_intro.dox:61: warning: image file box-diagram.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/signal-processing/tutorial_developer_signal_processing_1_algo.dox:5: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/signal-processing/tutorial_developer_signal_processing_1_algo.dox:7: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/signal-processing/tutorial_developer_signal_processing_1_algo.dox:8: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/signal-processing/tutorial_developer_signal_processing_1_box.dox:5: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/signal-processing/tutorial_developer_signal_processing_1_box.dox:7: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/signal-processing/tutorial_developer_signal_processing_1_box.dox:8: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/signal-processing/tutorial_developer_signal_processing_3_codec.dox:5: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/signal-processing/tutorial_developer_signal_processing_3_codec.dox:7: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/signal-processing/tutorial_developer_signal_processing_3_codec.dox:8: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/signal-processing/tutorial_developer_signal_processing_3_codec.dox:24: warning: unable to resolve reference to `BoxAlgorithm_CodecToolkitTestbox' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/signal-processing/tutorial_developer_signal_processing_3_codec.dox:94: warning: Unsupported xml/html tag <u> found
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/signal-processing/tutorial_developer_signal_processing_3_codec.dox:94: warning: Unsupported xml/html tag </u> found
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/vr-application/VRApplicationAndVRPN.dox:5: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/vr-application/VRApplicationAndVRPN.dox:7: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/vr-application/VRApplicationAndVRPN.dox:8: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/vr-application/VRApplicationAndVRPN.dox:38: warning: image file loop.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/vr-application/VRApplicationAndVRPN.dox:47: warning: unable to resolve reference to `Doc_BoxAlgorithm_AnalogVRPNServer' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/developers/tutorials/vr-application/VRApplicationAndVRPN.dox:48: warning: unable to resolve reference to `Doc_BoxAlgorithm_ButtonVRPNServer' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/faq.dox:385: warning: unable to resolve reference to `Doc_ContributionRules' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/openvibe.dox:132: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/openvibe.dox:134: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/openvibe.dox:135: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/openvibe.dox:140: warning: unable to resolve reference to `Doc_BoxAlgorithms' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/openvibe.dox:167: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/openvibe.dox:169: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/openvibe.dox:170: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/openvibe.dox:211: warning: unable to resolve reference to `Doc_BoxAlgorithms' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/acquisition-server/overview/AcquisitionServerOverview.dox:5: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/acquisition-server/overview/AcquisitionServerOverview.dox:7: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/acquisition-server/overview/AcquisitionServerOverview.dox:8: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/acquisition-server/overview/AcquisitionServerOverview.dox:25: warning: Unexpected tag </img> found
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/acquisition-server/overview/AcquisitionServerOverview.dox:55: warning: Unexpected tag </img> found
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/acquisition-server/overview/AcquisitionServerOverview.dox:63: warning: Unexpected tag </img> found
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/configuration-manager/ConfigurationManager.dox:5: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/configuration-manager/ConfigurationManager.dox:7: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/configuration-manager/ConfigurationManager.dox:8: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/overview/DesignerOverview.dox:5: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/overview/DesignerOverview.dox:7: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/overview/DesignerOverview.dox:8: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/overview/DesignerOverview.dox:35: warning: Unexpected tag </img> found
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/overview/DesignerOverview.dox:81: warning: Unexpected tag </img> found
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/overview/DesignerOverview.dox:87: warning: Unexpected tag </img> found
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/overview/DesignerOverview.dox:129: warning: Unexpected tag </img> found
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/overview/DesignerOverview.dox:134: warning: Unexpected tag </img> found
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/settings-override/BoxAlgorithmSettingsOverrideFileFormat.dox:5: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/settings-override/BoxAlgorithmSettingsOverrideFileFormat.dox:7: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/settings-override/BoxAlgorithmSettingsOverrideFileFormat.dox:8: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial1/DesignerTutorial1.dox:5: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial1/DesignerTutorial1.dox:7: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial1/DesignerTutorial1.dox:8: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial1/DesignerTutorial1.dox:23: warning: image file designer_tutorial_1_main_window_v2.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial1/DesignerTutorial1.dox:31: warning: image file designer_tutorial_1_adding_sinus_oscillator_v2.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial1/DesignerTutorial1.dox:41: warning: image file designer_tutorial_1_connecting_boxes_v2.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial1/DesignerTutorial1.dox:54: warning: image file designer_tutorial_1_playing_scenario.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial2/DesignerTutorial2.dox:5: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial2/DesignerTutorial2.dox:7: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial2/DesignerTutorial2.dox:8: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial2/DesignerTutorial2.dox:23: warning: image file designer_tutorial_2_identifying_customizable_boxes_v2.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial2/DesignerTutorial2.dox:33: warning: image file designer_tutorial_2_box_settings_dialog_v2.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial2/DesignerTutorial2.dox:39: warning: image file designer_tutorial_2_changing_channel_count.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial2/DesignerTutorial2.dox:49: warning: image file designer_tutorial_2_toolbar_button.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial2/DesignerTutorial2.dox:51: warning: unable to resolve reference to `Doc_DataVisualisation_2DVisualisation_SignalDisplay' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial2/DesignerTutorial2.dox:55: warning: image file designer_tutorial_2_changing_time_scale_toolbar_v2.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial2/DesignerTutorial2.dox:56: warning: image file designer_tutorial_2_changing_time_scale_visu_v2.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial3/DesignerTutorial3.dox:5: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial3/DesignerTutorial3.dox:7: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial3/DesignerTutorial3.dox:8: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial3/DesignerTutorial3.dox:18: warning: unable to resolve reference to `Doc_DataVisualisation_2DVisualisation_SignalDisplay' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial3/DesignerTutorial3.dox:18: warning: unable to resolve reference to `Doc_DataVisualisation_2DVisualisation_PowerSpectrum' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial3/DesignerTutorial3.dox:18: warning: unable to resolve reference to `Doc_DataVisualisation_3DVisualisation_3DTopographicMap' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial3/DesignerTutorial3.dox:37: warning: image file designer_tutorial_3_window_manager.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial3/DesignerTutorial3.dox:49: warning: image file designer_tutorial_3_unaffected_boxes_v2.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial3/DesignerTutorial3.dox:54: warning: image file designer_tutorial_3_unaffected_boxes_online.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial3/DesignerTutorial3.dox:64: warning: image file designer_tutorial_3_affect_plugin.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial3/DesignerTutorial3.dox:69: warning: image file designer_tutorial_3_4boxes_1tab.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial3/DesignerTutorial3.dox:97: warning: image file designer_tutorial_3_2tabs.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial4/DesignerTutorial4.dox:5: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial4/DesignerTutorial4.dox:7: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial4/DesignerTutorial4.dox:8: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial4/DesignerTutorial4.dox:27: warning: unable to resolve reference to `Doc_BoxAlgorithm_EpochAverage' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial4/DesignerTutorial4.dox:33: warning: image file designer_tutorial_4_configure_input_type.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial4/DesignerTutorial4.dox:34: warning: image file designer_tutorial_4_configure_input_type_dialog.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial4/DesignerTutorial4.dox:38: warning: unable to resolve reference to `Doc_BoxAlgorithm_GenericStreamReader' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial4/DesignerTutorial4.dox:42: warning: image file designer_tutorial_4_configure_output_number.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial4/DesignerTutorial4.dox:43: warning: image file designer_tutorial_4_configure_output_number_dialog.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial4/DesignerTutorial4.dox:57: warning: unable to resolve reference to `Doc_BoxAlgorithm_RunCommand' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial4/DesignerTutorial4.dox:61: warning: image file designer_tutorial_4_configure_add_setting.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial4/DesignerTutorial4.dox:62: warning: image file designer_tutorial_4_configure_setting_added.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/tutorials/tutorial4/DesignerTutorial4.dox:64: warning: unable to resolve reference to `Doc_BoxAlgorithm_KeyboardStimulator' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/window-manager/WindowManagerUsage.dox:6: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/window-manager/WindowManagerUsage.dox:8: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/window-manager/WindowManagerUsage.dox:9: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/window-manager/WindowManagerUsage.dox:46: warning: Unexpected tag </img> found
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/window-manager/WindowManagerUsage.dox:62: warning: Unexpected tag </img> found
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/window-manager/WindowManagerUsage.dox:65: warning: Unexpected tag </img> found
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/window-manager/WindowManagerUsage.dox:76: warning: Unexpected tag </img> found
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/window-manager/WindowManagerUsage.dox:83: warning: Unexpected tag </img> found
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/designer/window-manager/WindowManagerUsage.dox:113: warning: Unexpected tag </img> found
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/experiment-environment/ExperimentEnvironment.dox:6: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/experiment-environment/ExperimentEnvironment.dox:8: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/experiment-environment/ExperimentEnvironment.dox:9: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:5: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:7: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:8: warning: Illegal </br> tag found
+
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:14: warning: unable to resolve reference to `Doc_BoxAlgorithm_ChannelSelector' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:17: warning: unable to resolve reference to `Doc_BoxAlgorithm_Crop' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:20: warning: unable to resolve reference to `Doc_BoxAlgorithm_GDFFileReader' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:23: warning: unable to resolve reference to `Doc_BoxAlgorithm_GenericStreamReader' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:26: warning: unable to resolve reference to `Doc_BoxAlgorithm_LuaStimulator' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:26: warning: unable to resolve reference to `Doc_BoxAlgorithm_KeyboardStimulator' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:29: warning: unable to resolve reference to `Doc_BoxAlgorithm_AcquisitionClient' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:32: warning: unable to resolve reference to `Doc_BoxAlgorithm_TimeBasedEpoching' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:32: warning: unable to resolve reference to `Doc_BoxAlgorithm_SpectralAnalysisGPL' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:32: warning: unable to resolve reference to `Doc_BoxAlgorithm_PowerSpectrumDisplay' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:35: warning: unable to resolve reference to `Doc_BoxAlgorithm_RunCommand' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:38: warning: unable to resolve reference to `Doc_BoxAlgorithm_SignalDisplay' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:41: warning: unable to resolve reference to `Doc_BoxAlgorithm_SimpleDSP' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:44: warning: unable to resolve reference to `Doc_BoxAlgorithm_SoundPlayer' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:44: warning: unable to resolve reference to `Doc_BoxAlgorithm_KeyboardStimulator' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:47: warning: unable to resolve reference to `Doc_BoxAlgorithm_SpatialFilter' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:47: warning: unable to resolve reference to `Doc_BoxAlgorithm_TimeBasedEpoching' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:47: warning: unable to resolve reference to `Doc_BoxAlgorithm_SpectralAnalysisGPL' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:47: warning: unable to resolve reference to `Doc_BoxAlgorithm_TimeFrequencyMapDisplay' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:50: warning: unable to resolve reference to `Doc_BoxAlgorithm_TimeBasedEpoching' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:50: warning: unable to resolve reference to `Doc_BoxAlgorithm_EpochAverage' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:50: warning: unable to resolve reference to `Doc_BoxAlgorithm_ElectrodeLocalisationFileReader' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:50: warning: unable to resolve reference to `Doc_BoxAlgorithm_2DTopographicMap' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:50: warning: unable to resolve reference to `Doc_BoxAlgorithm_3DTopographicMap' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:53: warning: unable to resolve reference to `Doc_BoxAlgorithm_TimeBasedEpoching' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:53: warning: unable to resolve reference to `Doc_BoxAlgorithm_EpochAverage' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:53: warning: unable to resolve reference to `Doc_BoxAlgorithm_SpatialFilter' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:53: warning: unable to resolve reference to `Doc_BoxAlgorithm_2DTopographicMap' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:53: warning: unable to resolve reference to `Doc_BoxAlgorithm_VoxelDisplay' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:67: warning: unable to resolve reference to `Doc_BoxAlgorithm_Crop' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:67: warning: unable to resolve reference to `Doc_BoxAlgorithm_SimpleDSP' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:71: warning: Unexpected tag </img> found
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:90: warning: unable to resolve reference to `Doc_BoxAlgorithm_Crop' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:90: warning: unable to resolve reference to `Doc_BoxAlgorithm_SimpleDSP' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:94: warning: Unexpected tag </img> found
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:114: warning: unable to resolve reference to `Doc_BoxAlgorithm_ReferenceChannel' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:125: warning: Unexpected tag </img> found
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:150: warning: unable to resolve reference to `Doc_BoxAlgorithm_ReferenceChannel' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:163: warning: Unexpected tag </img> found
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:177: warning: unable to resolve reference to `Doc_BoxAlgorithm_GrazVisualization' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:185: warning: Unexpected tag </img> found
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:202: warning: unable to resolve reference to `Doc_BoxAlgorithm_LuaStimulator' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:210: warning: unable to resolve reference to `Doc_BoxAlgorithm_LuaStimulator' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:212: warning: unable to resolve reference to `Doc_BoxAlgorithm_GenericStreamReader' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:212: warning: unable to resolve reference to `Doc_BoxAlgorithm_AcquisitionClient' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:216: warning: Unexpected tag </img> found
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:236: warning: unable to resolve reference to `Doc_BoxAlgorithm_LuaStimulator' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:239: warning: unable to resolve reference to `Doc_BoxAlgorithm_SpatialFilter' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:247: warning: unable to resolve reference to `Doc_BoxAlgorithm_LuaStimulator' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:254: warning: Unexpected tag </img> found
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:277: warning: unable to resolve reference to `Doc_BoxAlgorithm_LuaStimulator' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:279: warning: unable to resolve reference to `Doc_BoxAlgorithm_GenericStreamReader' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:279: warning: unable to resolve reference to `Doc_BoxAlgorithm_AcquisitionClient' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ExistingScenarios.dox:283: warning: Unexpected tag </img> found
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/inserm-p300-speller/Doc_Scenario_InsermP300Speller.dox:34: warning: image file Doc_Scenario_InsermP300Speller_Image1.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/inserm-p300-speller/Doc_Scenario_InsermP300Speller.dox:57: warning: image file Doc_Scenario_InsermP300Speller_Image2.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/inserm-p300-speller/Doc_Scenario_InsermP300Speller.dox:61: warning: image file Doc_Scenario_InsermP300Speller_Image3.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/inserm-p300-speller/Doc_Scenario_InsermP300Speller.dox:67: warning: image file Doc_Scenario_InsermP300Speller_Image4.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/inserm-p300-speller/Doc_Scenario_InsermP300Speller.dox:133: warning: Found unknown command `\openvibe'
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/inserm-p300-speller/Doc_Scenario_InsermP300Speller.dox:144: warning: image file Doc_Scenario_InsermP300Speller_Image5.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/inserm-p300-speller/Doc_Scenario_InsermP300Speller.dox:157: warning: image file Doc_Scenario_InsermP300Speller_Image6.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/inserm-p300-speller/Doc_Scenario_InsermP300Speller.dox:167: warning: image file Doc_Scenario_InsermP300Speller_Image7.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/inserm-p300-speller/Doc_Scenario_InsermP300Speller.dox:171: warning: image file Doc_Scenario_InsermP300Speller_Image8.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/inserm-p300-speller/Doc_Scenario_InsermP300Speller.dox:179: warning: image file Doc_Scenario_InsermP300Speller_Image9.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/inserm-p300-speller/Doc_Scenario_InsermP300Speller.dox:183: warning: image file Doc_Scenario_InsermP300Speller_Image10.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ssvep/Doc_Scenario_SSVEP.dox:56: warning: image file frequency-patterns.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ssvep/Doc_Scenario_SSVEP.dox:122: warning: image file training.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/users/scenarios/ssvep/Doc_Scenario_SSVEP.dox:206: warning: image file online-shooter.png is not found in IMAGE_PATH: assuming external image.
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCOgreObject.h:37: warning: argument 'rIdentifier' of command @param is not found in the argument list of COgreObject::COgreObject(const OpenViBE::Kernel::IKernelContext &rKernelContext, OpenViBE::CIdentifier oIdentifier, COgreVisualisation *pOgreVis, Ogre::SceneManager *pSceneManager, const OpenViBE::CString &rGeometryFileName)
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCOgreObject.h:37: warning: argument 'rGeometryfileName' of command @param is not found in the argument list of COgreObject::COgreObject(const OpenViBE::Kernel::IKernelContext &rKernelContext, OpenViBE::CIdentifier oIdentifier, COgreVisualisation *pOgreVis, Ogre::SceneManager *pSceneManager, const OpenViBE::CString &rGeometryFileName)
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCOgreObject.h:37: warning: The following parameters of COgreObject::COgreObject(const OpenViBE::Kernel::IKernelContext &rKernelContext, OpenViBE::CIdentifier oIdentifier, COgreVisualisation *pOgreVis, Ogre::SceneManager *pSceneManager, const OpenViBE::CString &rGeometryFileName) are not documented:
+  parameter 'oIdentifier'
+  parameter 'rGeometryFileName'
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCOgreObject.h:71: warning: argument 'oIdentifier' of command @param is not found in the argument list of COgreObject::getIdentifier()
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCOgreObject.h:71: warning: argument 'pClone' of command @param is not found in the argument list of COgreObject::getIdentifier()
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCOgreObject.h:116: warning: argument 'f32Transparency' of command @param is not found in the argument list of COgreObject::setTransparency(Ogre::Real transparency)
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCOgreObject.h:116: warning: The following parameters of COgreObject::setTransparency(Ogre::Real transparency) are not documented:
+  parameter 'transparency'
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCOgreObject.h:124: warning: argument 'f32PositionX' of command @param is not found in the argument list of COgreObject::setPosition(Ogre::Real positionX, Ogre::Real positionY, Ogre::Real positionZ)
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCOgreObject.h:124: warning: argument 'f32PositionY' of command @param is not found in the argument list of COgreObject::setPosition(Ogre::Real positionX, Ogre::Real positionY, Ogre::Real positionZ)
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCOgreObject.h:124: warning: argument 'f32PositionZ' of command @param is not found in the argument list of COgreObject::setPosition(Ogre::Real positionX, Ogre::Real positionY, Ogre::Real positionZ)
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCOgreObject.h:124: warning: The following parameters of COgreObject::setPosition(Ogre::Real positionX, Ogre::Real positionY, Ogre::Real positionZ) are not documented:
+  parameter 'positionX'
+  parameter 'positionY'
+  parameter 'positionZ'
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCOgreObject.h:145: warning: argument 'f32OrientationX' of command @param is not found in the argument list of COgreObject::setRotation(Ogre::Real rotationX, Ogre::Real rotationY, Ogre::Real rotationZ, Ogre::Real rotationW)
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCOgreObject.h:145: warning: argument 'f32OrientationY' of command @param is not found in the argument list of COgreObject::setRotation(Ogre::Real rotationX, Ogre::Real rotationY, Ogre::Real rotationZ, Ogre::Real rotationW)
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCOgreObject.h:145: warning: argument 'f32OrientationZ' of command @param is not found in the argument list of COgreObject::setRotation(Ogre::Real rotationX, Ogre::Real rotationY, Ogre::Real rotationZ, Ogre::Real rotationW)
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCOgreObject.h:145: warning: argument 'f32OrientationW' of command @param is not found in the argument list of COgreObject::setRotation(Ogre::Real rotationX, Ogre::Real rotationY, Ogre::Real rotationZ, Ogre::Real rotationW)
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCOgreObject.h:145: warning: The following parameters of COgreObject::setRotation(Ogre::Real rotationX, Ogre::Real rotationY, Ogre::Real rotationZ, Ogre::Real rotationW) are not documented:
+  parameter 'rotationX'
+  parameter 'rotationY'
+  parameter 'rotationZ'
+  parameter 'rotationW'
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCOgreObject.h:159: warning: argument 'f32ScaleX' of command @param is not found in the argument list of COgreObject::setScale(Ogre::Real scaleX, Ogre::Real scaleY, Ogre::Real scaleZ)
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCOgreObject.h:159: warning: argument 'f32ScaleY' of command @param is not found in the argument list of COgreObject::setScale(Ogre::Real scaleX, Ogre::Real scaleY, Ogre::Real scaleZ)
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCOgreObject.h:159: warning: argument 'f32ScaleZ' of command @param is not found in the argument list of COgreObject::setScale(Ogre::Real scaleX, Ogre::Real scaleY, Ogre::Real scaleZ)
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCOgreObject.h:159: warning: The following parameters of COgreObject::setScale(Ogre::Real scaleX, Ogre::Real scaleY, Ogre::Real scaleZ) are not documented:
+  parameter 'scaleX'
+  parameter 'scaleY'
+  parameter 'scaleZ'
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCOgreResourceGroup.h:45: warning: argument 'type' of command @param is not found in the argument list of COgreResourceGroup::addResourceLocation(const std::string &rPath, const std::string &rType, bool bRecursive)
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCOgreResourceGroup.h:45: warning: The following parameters of COgreResourceGroup::addResourceLocation(const std::string &rPath, const std::string &rType, bool bRecursive) are not documented:
+  parameter 'rType'
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCOgreVisualisation.h:41: warning: Found unknown command `\logName'
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCOgreVisualisation.h:47: warning: The following parameters of COgreVisualisation::initializeOgre(const OpenViBE::CString &rPluginsFile, OpenViBE::boolean bLogToScreen, const OpenViBE::CString &rLogFileName) are not documented:
+  parameter 'bLogToScreen'
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCOgreVisualisation.h:134: warning: argument 'type' of command @param is not found in the argument list of COgreVisualisation::addResourceLocation(const OpenViBE::CIdentifier &rResourceGroupIdentifier, const std::string &rPath, const std::string &rType, bool bRecursive)
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCOgreVisualisation.h:134: warning: The following parameters of COgreVisualisation::addResourceLocation(const OpenViBE::CIdentifier &rResourceGroupIdentifier, const std::string &rPath, const std::string &rType, bool bRecursive) are not documented:
+  parameter 'rType'
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCMaterial.h:54: warning: unable to resolve reference to `NodeMaterial::doAction' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCMaterial.h:60: warning: unable to resolve reference to `EntityMaterial::doAction' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCMaterial.h:66: warning: unable to resolve reference to `SubEntityMaterial::doAction' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCMaterial.h:54: warning: unable to resolve reference to `NodeMaterial::doAction' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCMaterial.h:60: warning: unable to resolve reference to `EntityMaterial::doAction' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCMaterial.h:66: warning: unable to resolve reference to `SubEntityMaterial::doAction' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCMaterial.h:54: warning: unable to resolve reference to `NodeMaterial::doAction' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCMaterial.h:60: warning: unable to resolve reference to `EntityMaterial::doAction' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCMaterial.h:66: warning: unable to resolve reference to `SubEntityMaterial::doAction' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkMaterialAction.h:32: warning: End of list marker found without any preceding list items
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCMaterial.h:54: warning: unable to resolve reference to `NodeMaterial::doAction' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCMaterial.h:60: warning: unable to resolve reference to `EntityMaterial::doAction' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCMaterial.h:66: warning: unable to resolve reference to `SubEntityMaterial::doAction' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkMaterialAction.h:32: warning: End of list marker found without any preceding list items
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCMaterial.h:54: warning: unable to resolve reference to `NodeMaterial::doAction' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCMaterial.h:60: warning: unable to resolve reference to `EntityMaterial::doAction' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCMaterial.h:66: warning: unable to resolve reference to `SubEntityMaterial::doAction' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCMaterial.h:54: warning: unable to resolve reference to `NodeMaterial::doAction' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCMaterial.h:60: warning: unable to resolve reference to `EntityMaterial::doAction' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCMaterial.h:66: warning: unable to resolve reference to `SubEntityMaterial::doAction' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCMaterial.h:54: warning: unable to resolve reference to `NodeMaterial::doAction' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCMaterial.h:60: warning: unable to resolve reference to `EntityMaterial::doAction' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCMaterial.h:66: warning: unable to resolve reference to `SubEntityMaterial::doAction' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCMaterial.h:54: warning: unable to resolve reference to `NodeMaterial::doAction' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCMaterial.h:60: warning: unable to resolve reference to `EntityMaterial::doAction' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-kernel-omk/trunc/src/openvibe-kernel/kernel/player/ovkCMaterial.h:66: warning: unable to resolve reference to `SubEntityMaterial::doAction' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe/trunc/src/openvibe/ovCNameValuePairList.h:124: warning: The following parameters of OpenViBE::CNameValuePairList::getValue(const OpenViBE::CString &rName, OpenViBE::boolean &rValue) const are not documented:
+  parameter 'rName'
+/home/noa/Documents/experimental/openvibe/openvibe/trunc/src/openvibe/ovIStimulationSet.h:45: warning: Found unknown command `\Doc_TimeManagement'
+/home/noa/Documents/experimental/openvibe/openvibe/trunc/src/openvibe/ovIStimulationSet.h:53: warning: Found unknown command `\Doc_TimeManagement'
+/home/noa/Documents/experimental/openvibe/openvibe/trunc/src/openvibe/ovIStimulationSet.h:81: warning: Found unknown command `\Doc_TimeManagement'
+/home/noa/Documents/experimental/openvibe/openvibe/trunc/src/openvibe/ovIStimulationSet.h:93: warning: Found unknown command `\Doc_TimeManagement'
+/home/noa/Documents/experimental/openvibe/openvibe/trunc/src/openvibe/ovIKernelLoader.h:57: warning: unable to resolve reference to `Doc_CreatingNewKernel' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe/trunc/src/openvibe/ovIStimulationSet.h:45: warning: Found unknown command `\Doc_TimeManagement'
+/home/noa/Documents/experimental/openvibe/openvibe/trunc/src/openvibe/ovIStimulationSet.h:53: warning: Found unknown command `\Doc_TimeManagement'
+/home/noa/Documents/experimental/openvibe/openvibe/trunc/src/openvibe/ovIStimulationSet.h:81: warning: Found unknown command `\Doc_TimeManagement'
+/home/noa/Documents/experimental/openvibe/openvibe/trunc/src/openvibe/ovIStimulationSet.h:93: warning: Found unknown command `\Doc_TimeManagement'
+/home/noa/Documents/experimental/openvibe/openvibe/trunc/src/openvibe/kernel/log/ovILogListener.h:152: warning: argument 'ui64Value' of command @param is not found in the argument list of ILogListener::log(const OpenViBE::time64 time64Value)
+/home/noa/Documents/experimental/openvibe/openvibe/trunc/src/openvibe/kernel/log/ovILogListener.h:152: warning: The following parameters of OpenViBE::Kernel::ILogListener::log(const OpenViBE::time64 time64Value) are not documented:
+  parameter 'time64Value'
+/home/noa/Documents/experimental/openvibe/openvibe/trunc/src/openvibe/kernel/visualisation/ovIVisualisationContext.h:189: warning: argument 'rWindowIdentifier' of command @param is not found in the argument list of IVisualisationContext::setCameraToEncompassObjects(const OpenViBE::CIdentifier &rWidgetIdentifier)
+/home/noa/Documents/experimental/openvibe/openvibe/trunc/src/openvibe/kernel/visualisation/ovIVisualisationContext.h:189: warning: The following parameters of OpenViBE::Kernel::IVisualisationContext::setCameraToEncompassObjects(const OpenViBE::CIdentifier &rWidgetIdentifier) are not documented:
+  parameter 'rWidgetIdentifier'
+/home/noa/Documents/experimental/openvibe/openvibe/trunc/src/openvibe/kernel/visualisation/ovIVisualisationContext.h:199: warning: argument 'rWindowIdentifier' of command @param is not found in the argument list of IVisualisationContext::setCameraSphericalCoordinates(const OpenViBE::CIdentifier &rWidgetIdentifier, OpenViBE::float32 f32Theta, OpenViBE::float32 f32Phi, OpenViBE::float32 f32Radius)
+/home/noa/Documents/experimental/openvibe/openvibe/trunc/src/openvibe/kernel/visualisation/ovIVisualisationContext.h:199: warning: argument 'rTheta' of command @param is not found in the argument list of IVisualisationContext::setCameraSphericalCoordinates(const OpenViBE::CIdentifier &rWidgetIdentifier, OpenViBE::float32 f32Theta, OpenViBE::float32 f32Phi, OpenViBE::float32 f32Radius)
+/home/noa/Documents/experimental/openvibe/openvibe/trunc/src/openvibe/kernel/visualisation/ovIVisualisationContext.h:199: warning: argument 'rPhi' of command @param is not found in the argument list of IVisualisationContext::setCameraSphericalCoordinates(const OpenViBE::CIdentifier &rWidgetIdentifier, OpenViBE::float32 f32Theta, OpenViBE::float32 f32Phi, OpenViBE::float32 f32Radius)
+/home/noa/Documents/experimental/openvibe/openvibe/trunc/src/openvibe/kernel/visualisation/ovIVisualisationContext.h:199: warning: argument 'rRadius' of command @param is not found in the argument list of IVisualisationContext::setCameraSphericalCoordinates(const OpenViBE::CIdentifier &rWidgetIdentifier, OpenViBE::float32 f32Theta, OpenViBE::float32 f32Phi, OpenViBE::float32 f32Radius)
+/home/noa/Documents/experimental/openvibe/openvibe/trunc/src/openvibe/kernel/visualisation/ovIVisualisationContext.h:199: warning: The following parameters of OpenViBE::Kernel::IVisualisationContext::setCameraSphericalCoordinates(const OpenViBE::CIdentifier &rWidgetIdentifier, OpenViBE::float32 f32Theta, OpenViBE::float32 f32Phi, OpenViBE::float32 f32Radius) are not documented:
+  parameter 'rWidgetIdentifier'
+  parameter 'f32Theta'
+  parameter 'f32Phi'
+  parameter 'f32Radius'
+/home/noa/Documents/experimental/openvibe/openvibe/trunc/src/openvibe/kernel/visualisation/ovIVisualisationContext.h:234: warning: argument 'rObjectFileName' of command @param is not found in the argument list of IVisualisationContext::createObject(const OpenViBE::Kernel::EStandard3DObject eStandard3DObject, const CNameValuePairList *pObjectParams=NULL)
+/home/noa/Documents/experimental/openvibe/openvibe/trunc/src/openvibe/kernel/visualisation/ovIVisualisationContext.h:375: warning: argument 'rWindowIdentifier' of command @param is not found in the argument list of IVisualisationContext::getCameraSphericalCoordinates(const OpenViBE::CIdentifier &rWidgetIdentifier, OpenViBE::float32 &rTheta, OpenViBE::float32 &rPhi, OpenViBE::float32 &rRadius)
+/home/noa/Documents/experimental/openvibe/openvibe/trunc/src/openvibe/kernel/visualisation/ovIVisualisationContext.h:375: warning: The following parameters of OpenViBE::Kernel::IVisualisationContext::getCameraSphericalCoordinates(const OpenViBE::CIdentifier &rWidgetIdentifier, OpenViBE::float32 &rTheta, OpenViBE::float32 &rPhi, OpenViBE::float32 &rRadius) are not documented:
+  parameter 'rWidgetIdentifier'
+/home/noa/Documents/experimental/openvibe/openvibe/trunc/src/openvibe/kernel/visualisation/ovIVisualisationContext.h:413: warning: The following parameters of OpenViBE::Kernel::IVisualisationContext::getObjectVertexPositionArray(const OpenViBE::CIdentifier &rIdentifier, OpenViBE::uint32 ui32VertexPositionCount, OpenViBE::float32 *pVertexPositionArray) const are not documented:
+  parameter 'ui32VertexPositionCount'
+/home/noa/Documents/experimental/openvibe/openvibe/trunc/src/openvibe/kernel/visualisation/ovIVisualisationManager.h:62: warning: argument 'eResourceType' of command @param is not found in the argument list of IVisualisationManager::addResourceLocation(const OpenViBE::CIdentifier &rResourceGroupIdentifier, const OpenViBE::CString &rResourceName, OpenViBE::Kernel::EResourceType rResourceType, OpenViBE::boolean bRecursive)
+/home/noa/Documents/experimental/openvibe/openvibe/trunc/src/openvibe/kernel/visualisation/ovIVisualisationManager.h:62: warning: The following parameters of OpenViBE::Kernel::IVisualisationManager::addResourceLocation(const OpenViBE::CIdentifier &rResourceGroupIdentifier, const OpenViBE::CString &rResourceName, OpenViBE::Kernel::EResourceType rResourceType, OpenViBE::boolean bRecursive) are not documented:
+  parameter 'rResourceType'
+/home/noa/Documents/experimental/openvibe/openvibe/trunc/src/openvibe/kernel/visualisation/ovIVisualisationManager.h:119: warning: argument 'rCallback' of command @param is not found in the argument list of IVisualisationManager::enumerateVisualisationTrees(OpenViBE::Kernel::IVisualisationManager::IVisualisationTreeEnum &rCallBack) const
+/home/noa/Documents/experimental/openvibe/openvibe/trunc/src/openvibe/kernel/visualisation/ovIVisualisationManager.h:119: warning: The following parameters of OpenViBE::Kernel::IVisualisationManager::enumerateVisualisationTrees(OpenViBE::Kernel::IVisualisationManager::IVisualisationTreeEnum &rCallBack) const are not documented:
+  parameter 'rCallBack'
+/home/noa/Documents/experimental/openvibe/openvibe/trunc/src/openvibe/kernel/visualisation/ovIVisualisationManager.h:127: warning: argument 'pToolbarWidget' of command @param is not found in the argument list of IVisualisationManager::setToolbar(const CIdentifier &rVisualisationTreeIdentifier, const CIdentifier &rBoxIdentifier,::GtkWidget *pToolbar)
+/home/noa/Documents/experimental/openvibe/openvibe/trunc/src/openvibe/kernel/visualisation/ovIVisualisationManager.h:127: warning: The following parameters of OpenViBE::Kernel::IVisualisationManager::setToolbar(const CIdentifier &rVisualisationTreeIdentifier, const CIdentifier &rBoxIdentifier,::GtkWidget *pToolbar) are not documented:
+  parameter 'pToolbar'
+/home/noa/Documents/experimental/openvibe/openvibe/trunc/src/openvibe/kernel/visualisation/ovIVisualisationManager.h:141: warning: argument 'pWidget' of command @param is not found in the argument list of IVisualisationManager::setWidget(const CIdentifier &rVisualisationTreeIdentifier, const CIdentifier &rBoxIdentifier,::GtkWidget *pTopmostWidget)
+/home/noa/Documents/experimental/openvibe/openvibe/trunc/src/openvibe/kernel/visualisation/ovIVisualisationManager.h:141: warning: The following parameters of OpenViBE::Kernel::IVisualisationManager::setWidget(const CIdentifier &rVisualisationTreeIdentifier, const CIdentifier &rBoxIdentifier,::GtkWidget *pTopmostWidget) are not documented:
+  parameter 'pTopmostWidget'
+/home/noa/Documents/experimental/openvibe/openvibe/trunc/src/openvibe/kernel/visualisation/ovIVisualisationTree.h:582: warning: The following parameters of OpenViBE::Kernel::IVisualisationTree::dragDataReceivedOutsideWidgetCB(const OpenViBE::CIdentifier &rSrcIdentifier,::GtkWidget *pDstWidget, OpenViBE::Kernel::EDragDataLocation eLocation) are not documented:
+  parameter 'eLocation'
+/home/noa/Documents/experimental/openvibe/openvibe/trunc/src/openvibe/kernel/visualisation/ovIVisualisationTree.h:607: warning: argument 'pWidget' of command @param is not found in the argument list of IVisualisationTree::setWidget(const OpenViBE::CIdentifier &rBoxIdentifier,::GtkWidget *pTopmostWidget)
+/home/noa/Documents/experimental/openvibe/openvibe/trunc/src/openvibe/kernel/visualisation/ovIVisualisationTree.h:607: warning: The following parameters of OpenViBE::Kernel::IVisualisationTree::setWidget(const OpenViBE::CIdentifier &rBoxIdentifier,::GtkWidget *pTopmostWidget) are not documented:
+  parameter 'pTopmostWidget'
+/home/noa/Documents/experimental/openvibe/openvibe-applications/acquisition-server/trunc/src/ovasIDriver.h:210: warning: The following parameters of OpenViBEAcquisitionServer::IDriverCallback::setSamples(const OpenViBE::float32 *pSample, const OpenViBE::uint32 ui32SampleCount) are not documented:
+  parameter 'ui32SampleCount'
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/openvibe.dox:31: warning: unable to resolve reference to `Doc_BoxAlgorithms' for \ref command
+/home/noa/Documents/experimental/openvibe/openvibe-documentation/trunc/src/openvibe.dox:60: warning: unable to resolve reference to `Doc_BoxAlgorithms' for \ref command

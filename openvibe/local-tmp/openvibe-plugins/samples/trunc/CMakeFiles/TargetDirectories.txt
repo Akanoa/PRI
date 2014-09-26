@@ -1,0 +1,1 @@
+/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/samples/trunc/CMakeFiles/OpenViBE-plugins-samples-dynamic.dir

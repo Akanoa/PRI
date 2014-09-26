@@ -1,0 +1,1 @@
+/home/noa/Documents/experimental/openvibe/openvibe-applications/ssvep-demo/trunc/bin/OpenViBE-ssvep-demo-dynamic

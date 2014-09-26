@@ -1,0 +1,1 @@
+libOpenViBE-module-Automaton-dynamic.so.x.x.x

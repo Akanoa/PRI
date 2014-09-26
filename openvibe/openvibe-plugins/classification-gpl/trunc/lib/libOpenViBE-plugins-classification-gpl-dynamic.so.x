@@ -1,0 +1,1 @@
+libOpenViBE-plugins-classification-gpl-dynamic.so.x.x.x

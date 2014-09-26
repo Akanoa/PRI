@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/noa/Documents/experimental/emokit/c/examples/emokitd/emokitd.c
+stdio.h
+-
+string.h
+-
+emokit/emokit.h
+/home/noa/Documents/experimental/emokit/c/examples/emokitd/emokit/emokit.h
+

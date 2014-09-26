@@ -1,0 +1,7 @@
+/home/noa/Documents/experimental/openvibe/openvibe-modules/socket/trunc/lib/libOpenViBE-module-Socket-dynamic.so.x.x.x
+/home/noa/Documents/experimental/openvibe/openvibe-modules/socket/trunc/lib/libOpenViBE-module-Socket-dynamic.so.x
+/home/noa/Documents/experimental/openvibe/openvibe-modules/socket/trunc/lib/libOpenViBE-module-Socket-dynamic.so
+/home/noa/Documents/experimental/openvibe/openvibe-modules/socket/trunc/include/socket/IConnectionClient.h
+/home/noa/Documents/experimental/openvibe/openvibe-modules/socket/trunc/include/socket/defines.h
+/home/noa/Documents/experimental/openvibe/openvibe-modules/socket/trunc/include/socket/IConnection.h
+/home/noa/Documents/experimental/openvibe/openvibe-modules/socket/trunc/include/socket/IConnectionServer.h

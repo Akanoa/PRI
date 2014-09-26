@@ -1,0 +1,66 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/noa/Documents/experimental/openvibe/openvibe-plugins/samples/trunc/src/algorithms/ovpCAlgorithmAddition.cpp" "/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/samples/trunc/CMakeFiles/OpenViBE-plugins-samples-dynamic.dir/src/algorithms/ovpCAlgorithmAddition.o"
+  "/home/noa/Documents/experimental/openvibe/openvibe-plugins/samples/trunc/src/ovpCBoxAlgorithmAdditionTest.cpp" "/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/samples/trunc/CMakeFiles/OpenViBE-plugins-samples-dynamic.dir/src/ovpCBoxAlgorithmAdditionTest.o"
+  "/home/noa/Documents/experimental/openvibe/openvibe-plugins/samples/trunc/src/ovpCBoxAlgorithmClock.cpp" "/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/samples/trunc/CMakeFiles/OpenViBE-plugins-samples-dynamic.dir/src/ovpCBoxAlgorithmClock.o"
+  "/home/noa/Documents/experimental/openvibe/openvibe-plugins/samples/trunc/src/ovpCBoxAlgorithmClockStimulator.cpp" "/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/samples/trunc/CMakeFiles/OpenViBE-plugins-samples-dynamic.dir/src/ovpCBoxAlgorithmClockStimulator.o"
+  "/home/noa/Documents/experimental/openvibe/openvibe-plugins/samples/trunc/src/ovpCBoxAlgorithmMeanVariance.cpp" "/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/samples/trunc/CMakeFiles/OpenViBE-plugins-samples-dynamic.dir/src/ovpCBoxAlgorithmMeanVariance.o"
+  "/home/noa/Documents/experimental/openvibe/openvibe-plugins/samples/trunc/src/ovpCBoxAlgorithmNothing.cpp" "/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/samples/trunc/CMakeFiles/OpenViBE-plugins-samples-dynamic.dir/src/ovpCBoxAlgorithmNothing.o"
+  "/home/noa/Documents/experimental/openvibe/openvibe-plugins/samples/trunc/src/ovpCIdentity.cpp" "/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/samples/trunc/CMakeFiles/OpenViBE-plugins-samples-dynamic.dir/src/ovpCIdentity.o"
+  "/home/noa/Documents/experimental/openvibe/openvibe-plugins/samples/trunc/src/ovpCLog.cpp" "/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/samples/trunc/CMakeFiles/OpenViBE-plugins-samples-dynamic.dir/src/ovpCLog.o"
+  "/home/noa/Documents/experimental/openvibe/openvibe-plugins/samples/trunc/src/ovpCScenarioExporterSVG.cpp" "/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/samples/trunc/CMakeFiles/OpenViBE-plugins-samples-dynamic.dir/src/ovpCScenarioExporterSVG.o"
+  "/home/noa/Documents/experimental/openvibe/openvibe-plugins/samples/trunc/src/ovpCScenarioExporterXML.cpp" "/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/samples/trunc/CMakeFiles/OpenViBE-plugins-samples-dynamic.dir/src/ovpCScenarioExporterXML.o"
+  "/home/noa/Documents/experimental/openvibe/openvibe-plugins/samples/trunc/src/ovpCScenarioImporterXML.cpp" "/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/samples/trunc/CMakeFiles/OpenViBE-plugins-samples-dynamic.dir/src/ovpCScenarioImporterXML.o"
+  "/home/noa/Documents/experimental/openvibe/openvibe-plugins/samples/trunc/src/ovpCSinusSignalGenerator.cpp" "/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/samples/trunc/CMakeFiles/OpenViBE-plugins-samples-dynamic.dir/src/ovpCSinusSignalGenerator.o"
+  "/home/noa/Documents/experimental/openvibe/openvibe-plugins/samples/trunc/src/ovpCTest.cpp" "/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/samples/trunc/CMakeFiles/OpenViBE-plugins-samples-dynamic.dir/src/ovpCTest.o"
+  "/home/noa/Documents/experimental/openvibe/openvibe-plugins/samples/trunc/src/ovpCTestCodecToolkit.cpp" "/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/samples/trunc/CMakeFiles/OpenViBE-plugins-samples-dynamic.dir/src/ovpCTestCodecToolkit.o"
+  "/home/noa/Documents/experimental/openvibe/openvibe-plugins/samples/trunc/src/ovpCTimeSignalGenerator.cpp" "/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/samples/trunc/CMakeFiles/OpenViBE-plugins-samples-dynamic.dir/src/ovpCTimeSignalGenerator.o"
+  "/home/noa/Documents/experimental/openvibe/openvibe-plugins/samples/trunc/src/ovp_main.cpp" "/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/samples/trunc/CMakeFiles/OpenViBE-plugins-samples-dynamic.dir/src/ovp_main.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS
+  "EBML_Shared"
+  "OVTK_Shared"
+  "OV_Shared"
+  "System_Shared"
+  "TARGET_ARCHITECTURE_i386"
+  "TARGET_COMPILATOR_GCC"
+  "TARGET_HAS_EBML"
+  "TARGET_HAS_OpenViBE"
+  "TARGET_HAS_OpenViBEToolkit"
+  "TARGET_HAS_System"
+  "TARGET_HAS_ThirdPartyOpenViBEPluginsGlobalDefines"
+  "TARGET_HAS_XML"
+  "TARGET_OS_Linux"
+  "XML_Shared"
+  )
+
+# Pairs of files generated by the same build rule.
+set(CMAKE_MULTIPLE_OUTPUT_PAIRS
+  "/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/samples/trunc/libOpenViBE-plugins-samples-dynamic.so" "/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/samples/trunc/libOpenViBE-plugins-samples-dynamic.so.x.x.x"
+  "/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/samples/trunc/libOpenViBE-plugins-samples-dynamic.so.x" "/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/samples/trunc/libOpenViBE-plugins-samples-dynamic.so.x.x.x"
+  )
+
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# The include file search paths:
+set(CMAKE_C_TARGET_INCLUDE_PATH
+  "/home/noa/Documents/experimental/openvibe/openvibe/trunc/include"
+  "/home/noa/Documents/experimental/openvibe/openvibe-toolkit/trunc/include"
+  "/home/noa/Documents/experimental/openvibe/openvibe-modules/ebml/trunc/include"
+  "/home/noa/Documents/experimental/openvibe/openvibe-modules/system/trunc/include"
+  "/home/noa/Documents/experimental/openvibe/openvibe-modules/xml/trunc/include"
+  "/home/noa/Documents/experimental/openvibe/cmake-modules"
+  )
+set(CMAKE_CXX_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
+set(CMAKE_Fortran_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
+set(CMAKE_ASM_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})

@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -Wall -O3 -DNDEBUG   -shared -Wl,-soname,libOpenViBE-module-XML-dynamic.so.x -o libOpenViBE-module-XML-dynamic.so.x.x.x CMakeFiles/OpenViBE-module-XML-dynamic.dir/src/main.o CMakeFiles/OpenViBE-module-XML-dynamic.dir/src/xml/IWriter.o CMakeFiles/OpenViBE-module-XML-dynamic.dir/src/xml/IReader.o -lexpat 

@@ -1,0 +1,1 @@
+libOpenViBE-plugins-feature-extraction-dynamic.so.x.x.x

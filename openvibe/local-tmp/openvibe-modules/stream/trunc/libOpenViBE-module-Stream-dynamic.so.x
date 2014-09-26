@@ -1,0 +1,1 @@
+libOpenViBE-module-Stream-dynamic.so.x.x.x

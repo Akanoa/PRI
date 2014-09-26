@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/noa/Documents/experimental/openvibe/openvibe-plugins/file-io/trunc/src/box-algorithms/file-reading-and-writing/edf/edflib.c
+edflib.h
+/home/noa/Documents/experimental/openvibe/openvibe-plugins/file-io/trunc/src/box-algorithms/file-reading-and-writing/edf/edflib.h
+
+/home/noa/Documents/experimental/openvibe/openvibe-plugins/file-io/trunc/src/box-algorithms/file-reading-and-writing/edf/edflib.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+

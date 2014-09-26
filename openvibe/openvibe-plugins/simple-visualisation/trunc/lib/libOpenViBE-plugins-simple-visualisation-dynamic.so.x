@@ -1,0 +1,1 @@
+libOpenViBE-plugins-simple-visualisation-dynamic.so.x.x.x

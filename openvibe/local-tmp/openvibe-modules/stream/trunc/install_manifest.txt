@@ -1,0 +1,8 @@
+/home/noa/Documents/experimental/openvibe/openvibe-modules/stream/trunc/lib/libOpenViBE-module-Stream-dynamic.so.x.x.x
+/home/noa/Documents/experimental/openvibe/openvibe-modules/stream/trunc/lib/libOpenViBE-module-Stream-dynamic.so.x
+/home/noa/Documents/experimental/openvibe/openvibe-modules/stream/trunc/lib/libOpenViBE-module-Stream-dynamic.so
+/home/noa/Documents/experimental/openvibe/openvibe-modules/stream/trunc/include/stream/IInputStream.h
+/home/noa/Documents/experimental/openvibe/openvibe-modules/stream/trunc/include/stream/defines.h
+/home/noa/Documents/experimental/openvibe/openvibe-modules/stream/trunc/include/stream/IInputStreamHelper.h
+/home/noa/Documents/experimental/openvibe/openvibe-modules/stream/trunc/include/stream/IOutputStream.h
+/home/noa/Documents/experimental/openvibe/openvibe-modules/stream/trunc/include/stream/IOutputStreamHelper.h

@@ -1,0 +1,2 @@
+/home/noa/Documents/experimental/emokit/c/src/CMakeFiles/emokit.dir
+/home/noa/Documents/experimental/emokit/c/examples/emokitd/CMakeFiles/emokitd.dir

@@ -1,0 +1,12 @@
+/home/noa/Documents/experimental/openvibe/openvibe-modules/automaton/trunc/lib/libOpenViBE-module-Automaton-dynamic.so.x.x.x
+/home/noa/Documents/experimental/openvibe/openvibe-modules/automaton/trunc/lib/libOpenViBE-module-Automaton-dynamic.so.x
+/home/noa/Documents/experimental/openvibe/openvibe-modules/automaton/trunc/lib/libOpenViBE-module-Automaton-dynamic.so
+/home/noa/Documents/experimental/openvibe/openvibe-modules/automaton/trunc/include/automaton/INodeFactory.h
+/home/noa/Documents/experimental/openvibe/openvibe-modules/automaton/trunc/include/automaton/defines.h
+/home/noa/Documents/experimental/openvibe/openvibe-modules/automaton/trunc/include/automaton/INode.h
+/home/noa/Documents/experimental/openvibe/openvibe-modules/automaton/trunc/include/automaton/IXMLNodeReaderFactory.h
+/home/noa/Documents/experimental/openvibe/openvibe-modules/automaton/trunc/include/automaton/IAutomatonContext.h
+/home/noa/Documents/experimental/openvibe/openvibe-modules/automaton/trunc/include/automaton/IAutomatonController.h
+/home/noa/Documents/experimental/openvibe/openvibe-modules/automaton/trunc/include/automaton/CIdentifier.h
+/home/noa/Documents/experimental/openvibe/openvibe-modules/automaton/trunc/include/automaton/IXMLAutomatonReader.h
+/home/noa/Documents/experimental/openvibe/openvibe-modules/automaton/trunc/include/automaton/IXMLNodeReader.h

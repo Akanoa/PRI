@@ -1,0 +1,76 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/noa/Documents/experimental/openvibe/openvibe-plugins/stimulation/trunc/src/box-algorithms/stimulation/adaptation/ovpCBoxAlgorithmStimulationFilter.cpp" "/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/stimulation/trunc/CMakeFiles/OpenViBE-plugins-stimulation-dynamic.dir/src/box-algorithms/stimulation/adaptation/ovpCBoxAlgorithmStimulationFilter.o"
+  "/home/noa/Documents/experimental/openvibe/openvibe-plugins/stimulation/trunc/src/box-algorithms/stimulation/ovpCBoxAlgorithmLuaStimulator.cpp" "/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/stimulation/trunc/CMakeFiles/OpenViBE-plugins-stimulation-dynamic.dir/src/box-algorithms/stimulation/ovpCBoxAlgorithmLuaStimulator.o"
+  "/home/noa/Documents/experimental/openvibe/openvibe-plugins/stimulation/trunc/src/box-algorithms/stimulation/ovpCBoxAlgorithmOpenALSoundPlayer.cpp" "/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/stimulation/trunc/CMakeFiles/OpenViBE-plugins-stimulation-dynamic.dir/src/box-algorithms/stimulation/ovpCBoxAlgorithmOpenALSoundPlayer.o"
+  "/home/noa/Documents/experimental/openvibe/openvibe-plugins/stimulation/trunc/src/box-algorithms/stimulation/ovpCBoxAlgorithmPlayerController.cpp" "/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/stimulation/trunc/CMakeFiles/OpenViBE-plugins-stimulation-dynamic.dir/src/box-algorithms/stimulation/ovpCBoxAlgorithmPlayerController.o"
+  "/home/noa/Documents/experimental/openvibe/openvibe-plugins/stimulation/trunc/src/box-algorithms/stimulation/ovpCBoxAlgorithmRunCommand.cpp" "/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/stimulation/trunc/CMakeFiles/OpenViBE-plugins-stimulation-dynamic.dir/src/box-algorithms/stimulation/ovpCBoxAlgorithmRunCommand.o"
+  "/home/noa/Documents/experimental/openvibe/openvibe-plugins/stimulation/trunc/src/box-algorithms/stimulation/ovpCBoxAlgorithmSoundPlayer.cpp" "/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/stimulation/trunc/CMakeFiles/OpenViBE-plugins-stimulation-dynamic.dir/src/box-algorithms/stimulation/ovpCBoxAlgorithmSoundPlayer.o"
+  "/home/noa/Documents/experimental/openvibe/openvibe-plugins/stimulation/trunc/src/box-algorithms/stimulation/ovpCBoxAlgorithmStimulationMultiplexer.cpp" "/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/stimulation/trunc/CMakeFiles/OpenViBE-plugins-stimulation-dynamic.dir/src/box-algorithms/stimulation/ovpCBoxAlgorithmStimulationMultiplexer.o"
+  "/home/noa/Documents/experimental/openvibe/openvibe-plugins/stimulation/trunc/src/ovpCBoxAlgorithmP300IdentifierStimulator.cpp" "/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/stimulation/trunc/CMakeFiles/OpenViBE-plugins-stimulation-dynamic.dir/src/ovpCBoxAlgorithmP300IdentifierStimulator.o"
+  "/home/noa/Documents/experimental/openvibe/openvibe-plugins/stimulation/trunc/src/ovpCBoxAlgorithmP300SpellerStimulator.cpp" "/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/stimulation/trunc/CMakeFiles/OpenViBE-plugins-stimulation-dynamic.dir/src/ovpCBoxAlgorithmP300SpellerStimulator.o"
+  "/home/noa/Documents/experimental/openvibe/openvibe-plugins/stimulation/trunc/src/ovpCKeyboardStimulator.cpp" "/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/stimulation/trunc/CMakeFiles/OpenViBE-plugins-stimulation-dynamic.dir/src/ovpCKeyboardStimulator.o"
+  "/home/noa/Documents/experimental/openvibe/openvibe-plugins/stimulation/trunc/src/ovpCSignChangeDetector.cpp" "/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/stimulation/trunc/CMakeFiles/OpenViBE-plugins-stimulation-dynamic.dir/src/ovpCSignChangeDetector.o"
+  "/home/noa/Documents/experimental/openvibe/openvibe-plugins/stimulation/trunc/src/ovpCXMLStimulationScenarioPlayer.cpp" "/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/stimulation/trunc/CMakeFiles/OpenViBE-plugins-stimulation-dynamic.dir/src/ovpCXMLStimulationScenarioPlayer.o"
+  "/home/noa/Documents/experimental/openvibe/openvibe-plugins/stimulation/trunc/src/ovp_main.cpp" "/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/stimulation/trunc/CMakeFiles/OpenViBE-plugins-stimulation-dynamic.dir/src/ovp_main.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS
+  "AUTOMATON_Shared"
+  "EBML_Shared"
+  "OVTK_Shared"
+  "OV_Shared"
+  "TARGET_ARCHITECTURE_i386"
+  "TARGET_COMPILATOR_GCC"
+  "TARGET_HAS_Automaton"
+  "TARGET_HAS_Boost"
+  "TARGET_HAS_EBML"
+  "TARGET_HAS_OpenViBE"
+  "TARGET_HAS_OpenViBEToolkit"
+  "TARGET_HAS_ThirdPartyLua"
+  "TARGET_HAS_ThirdPartyOpenAL"
+  "TARGET_HAS_ThirdPartyOpenViBEPluginsGlobalDefines"
+  "TARGET_OS_Linux"
+  )
+
+# Pairs of files generated by the same build rule.
+set(CMAKE_MULTIPLE_OUTPUT_PAIRS
+  "/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/stimulation/trunc/libOpenViBE-plugins-stimulation-dynamic.so" "/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/stimulation/trunc/libOpenViBE-plugins-stimulation-dynamic.so.x.x.x"
+  "/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/stimulation/trunc/libOpenViBE-plugins-stimulation-dynamic.so.x" "/home/noa/Documents/experimental/openvibe/local-tmp/openvibe-plugins/stimulation/trunc/libOpenViBE-plugins-stimulation-dynamic.so.x.x.x"
+  )
+
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# The include file search paths:
+set(CMAKE_C_TARGET_INCLUDE_PATH
+  "/home/noa/Documents/experimental/openvibe/openvibe/trunc/include"
+  "/home/noa/Documents/experimental/openvibe/openvibe-toolkit/trunc/include"
+  "/home/noa/Documents/experimental/openvibe/openvibe-modules/ebml/trunc/include"
+  "/home/noa/Documents/experimental/openvibe/openvibe-modules/automaton/trunc/include"
+  "/home/noa/Documents/experimental/openvibe/cmake-modules"
+  "/usr/include/gtk-2.0"
+  "/usr/lib/x86_64-linux-gnu/gtk-2.0/include"
+  "/usr/include/atk-1.0"
+  "/usr/include/cairo"
+  "/usr/include/gdk-pixbuf-2.0"
+  "/usr/include/pango-1.0"
+  "/usr/include/gio-unix-2.0"
+  "/usr/include/glib-2.0"
+  "/usr/lib/x86_64-linux-gnu/glib-2.0/include"
+  "/usr/include/pixman-1"
+  "/usr/include/freetype2"
+  "/usr/include/libpng12"
+  "/home/noa/Documents/experimental/openvibe/scripts/software/include"
+  )
+set(CMAKE_CXX_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
+set(CMAKE_Fortran_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
+set(CMAKE_ASM_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
